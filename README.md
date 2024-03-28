@@ -3,6 +3,10 @@
 Demo iOS app using SwiftUI and MVVM pattern<br>
 Backend https://fakestoreapi.com/
 
+LoginInfo
+User:mor_2314
+Pass:83r5^_
+
 Navigation Stack for navigation<br>
 SwiftData for caching Products added to Cart and Auth Token
 
