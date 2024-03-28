@@ -13,6 +13,9 @@ SwiftData for caching Products added to Cart and Auth Token
 <img src="https://github.com/Aleksandar98/iOSDemoEcomerc/assets/30177897/91d07488-607f-47db-9e0a-104612815c1b" width=40% height=40%>
 <img src="https://github.com/Aleksandar98/iOSDemoEcomerc/assets/30177897/ea693339-ad0c-4f39-9e2b-a86a03946448" width=40% height=40%>
 
+# Product Detail
+<img src="https://github.com/Aleksandar98/iOSDemoEcomerc/assets/30177897/94e8ec2c-16ba-4a03-9c16-dd5238e814d5" width=40% height=40%>
+
 ## All products
 <img src="https://github.com/Aleksandar98/iOSDemoEcomerc/assets/30177897/59eae4fc-c22a-4e91-adb8-fb120c610f7b" width=40% height=40%>
 
